@@ -1,0 +1,1 @@
+import{d as s,o as a,c as o,b as n,a as r,w as c,e as l,k as d,l as i}from"./app.db0cd005.js";const _={class:"flex flex-col mt-20px justify-center"},u=i(" \u8FD4\u56DE "),x=s({__name:"index",setup(f){return(t,e)=>(a(),o("div",_,[n("div",null,[r(l(d),{onClick:e[0]||(e[0]=m=>t.$router.back())},{default:c(()=>[u]),_:1})])]))}});export{x as default};

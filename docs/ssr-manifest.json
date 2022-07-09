@@ -13,13 +13,21 @@
   "node_modules/.pnpm/vite-ssg@0.20.2_eokielpygmxkps7ibtqtl57hgq/node_modules/vite-ssg/dist/chunks/ClientOnly.mjs": [],
   "node_modules/.pnpm/vite-ssg@0.20.2_eokielpygmxkps7ibtqtl57hgq/node_modules/vite-ssg/dist/index.mjs": [],
   "vite/preload-helper": [],
+  "plugin-vue:export-helper": [],
+  "src/components/SideBar.vue": [],
   "node_modules/.pnpm/@vueuse+shared@8.8.0_vue@3.2.37/node_modules/@vueuse/shared/index.mjs": [],
   "node_modules/.pnpm/@vueuse+core@8.8.0_vue@3.2.37/node_modules/@vueuse/core/index.mjs": [],
   "src/dark/dark.ts": [],
-  "plugin-vue:export-helper": [],
+  "src/components/HeadNav.vue": [],
+  "src/components/Header.vue?vue&type=style&index=0&scoped=true&lange=scss&lang.css": [],
   "src/components/Header.vue": [],
   "src/layouts/default.vue": [],
   "../../../../@vite-plugin-vue-layouts/generated-layouts": [],
+  "node_modules/.pnpm/vue-starport@0.3.0/node_modules/vue-starport/dist/index.mjs": [],
+  "packages/styles/var.scss": [],
+  "packages/components/button/src/IuButton.vue": [],
+  "packages/components/index.ts": [],
+  "packages/index.ts": [],
   "src/App.vue": [],
   "../../../../@vite-plugin-pages/route-block": [],
   "src/pages/index.vue": [],
@@ -29,17 +37,29 @@
   "../../../../__uno.css": [],
   "src/main.ts": [],
   "index.html": [],
-  "assets/app.a83ca468.js-unocss-hash.css": [],
+  "assets/app.db0cd005.js-unocss-hash.css": [],
   "src/layouts/404.vue": [
-    "/assets/404.c0fa8966.js"
+    "/assets/404.b5500d22.js"
+  ],
+  "src/layouts/guide.vue": [
+    "/assets/guide.9c50b820.js"
   ],
   "src/layouts/home.vue": [
-    "/assets/home.9efdae42.js"
+    "/assets/home.586c7e7d.js"
   ],
   "src/pages/about.md": [
-    "/assets/about.8683a96e.js"
+    "/assets/about.d0cbff3d.js"
+  ],
+  "src/pages/test.vue": [
+    "/assets/test.125b530d.js"
   ],
   "src/pages/[...all].vue": [
-    "/assets/_...all_.11e8134c.js"
+    "/assets/_...all_.6930483d.js"
+  ],
+  "src/pages/guide/start.md": [
+    "/assets/start.6b967623.js"
+  ],
+  "src/pages/components/button/index.vue": [
+    "/assets/index.65baebc5.js"
   ]
 }
