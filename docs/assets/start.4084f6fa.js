@@ -1,1 +1,0 @@
-import{i as o,o as s,c as a,j as t,b as c}from"./app.ba20908b.js";const n={class:"prose prose-sm m-auto text-left"},r=c("h2",null,"\u8FD8\u65E9\u2026",-1),_=[r],h=[],m={__name:"start",setup(d,{expose:e}){return e({frontmatter:{meta:[]}}),o({meta:[]}),(l,p)=>(s(),a("div",n,_))}};typeof t=="function"&&t(m);export{m as default,h as meta};
