@@ -1,0 +1,1 @@
+import{i as t,o as s,c as o,b as a}from"./app.def817e6.js";const c={class:"prose prose-sm text-left"},n=a("h3",null,"\u5728 \u57FA\u7840-\u6309\u94AE \u67E5\u770B\u90E8\u5206\u6548\u679C\u2026",-1),r=[n],i=[],f={__name:"space",setup(_,{expose:e}){return e({frontmatter:{meta:[]}}),t({meta:[]}),(p,l)=>(s(),o("div",c,r))}};export{f as default,i as meta};
