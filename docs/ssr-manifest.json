@@ -8,8 +8,8 @@
   "node_modules/.pnpm/@vue+runtime-dom@3.2.37/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [],
   "packages/utils/IuNode.ts": [],
   "node_modules/.pnpm/vue-demi@0.13.2_vue@3.2.37/node_modules/vue-demi/lib/index.mjs": [],
-  "node_modules/.pnpm/@vueuse+shared@8.9.4_vue@3.2.37/node_modules/@vueuse/shared/index.mjs": [],
-  "node_modules/.pnpm/@vueuse+core@8.9.4_vue@3.2.37/node_modules/@vueuse/core/index.mjs": [],
+  "node_modules/.pnpm/@vueuse+shared@9.0.2_vue@3.2.37/node_modules/@vueuse/shared/index.mjs": [],
+  "node_modules/.pnpm/@vueuse+core@9.0.2_vue@3.2.37/node_modules/@vueuse/core/index.mjs": [],
   "packages/components/backtop/src/backtop.ts": [],
   "packages/components/backtop/src/backtop.vue?vue&type=script&setup=true&lang.ts": [],
   "packages/components/backtop/src/backtop.vue?vue&type=style&index=0&scoped=36a3d0db&lang.scss": [],
@@ -88,22 +88,28 @@
   "packages/components/space/src/index.scss": [],
   "packages/components/space/src/space.tsx": [],
   "packages/components/space/index.ts": [],
+  "packages/components/switch/src/switch.ts": [],
+  "packages/components/switch/src/switch.vue?vue&type=script&setup=true&lang.ts": [],
+  "packages/components/switch/src/switch.vue?vue&type=style&index=0&lang.scss": [],
+  "packages/components/switch/index.ts": [],
   "packages/directives/tooltip/src/tooltip.vue?vue&type=style&index=0&scoped=50e83feb&lang.scss": [],
   "packages/directives/tooltip/src/tooltip.vue": [],
   "packages/directives/tooltip/src/index.ts": [],
   "src/modules/iu.ts": [],
-  "node_modules/.pnpm/pinia@2.0.16_j6bzmzd4ujpabbp5objtwxyjp4/node_modules/pinia/dist/pinia.esm-browser.js": [],
+  "node_modules/.pnpm/pinia@2.0.17_j6bzmzd4ujpabbp5objtwxyjp4/node_modules/pinia/dist/pinia.esm-browser.js": [],
   "src/modules/pinia.ts": [],
+  "node_modules/.pnpm/@vueuse+shared@8.9.4_vue@3.2.37/node_modules/@vueuse/shared/index.mjs": [],
+  "node_modules/.pnpm/@vueuse+core@8.9.4_vue@3.2.37/node_modules/@vueuse/core/index.mjs": [],
   "node_modules/.pnpm/vue-starport@0.3.0/node_modules/vue-starport/dist/index.mjs": [],
   "src/modules/starport.ts": [],
-  "node_modules/.pnpm/vue-router@4.1.2_vue@3.2.37/node_modules/vue-router/dist/vue-router.mjs": [],
-  "node_modules/.pnpm/@vueuse+head@0.7.7_vue@3.2.37/node_modules/@vueuse/head/dist/index.mjs": [],
-  "node_modules/.pnpm/vite-ssg@0.20.2_wr5vdyklj5saysxmb4er35ppzu/node_modules/vite-ssg/dist/chunks/state.mjs": [],
-  "node_modules/.pnpm/vite-ssg@0.20.2_wr5vdyklj5saysxmb4er35ppzu/node_modules/vite-ssg/dist/chunks/ClientOnly.mjs": [],
-  "node_modules/.pnpm/vite-ssg@0.20.2_wr5vdyklj5saysxmb4er35ppzu/node_modules/vite-ssg/dist/index.mjs": [],
+  "node_modules/.pnpm/vue-router@4.1.3_vue@3.2.37/node_modules/vue-router/dist/vue-router.mjs": [],
+  "node_modules/.pnpm/@vueuse+head@0.7.8_vue@3.2.37/node_modules/@vueuse/head/dist/index.mjs": [],
+  "node_modules/.pnpm/vite-ssg@0.20.2_rmufbnf6amlffepj77wphuirc4/node_modules/vite-ssg/dist/chunks/state.mjs": [],
+  "node_modules/.pnpm/vite-ssg@0.20.2_rmufbnf6amlffepj77wphuirc4/node_modules/vite-ssg/dist/chunks/ClientOnly.mjs": [],
+  "node_modules/.pnpm/vite-ssg@0.20.2_rmufbnf6amlffepj77wphuirc4/node_modules/vite-ssg/dist/index.mjs": [],
   "\u0000vite/preload-helper": [],
   "src/components/SideBar.vue?vue&type=script&setup=true&lang.ts": [],
-  "src/components/SideBar.vue?vue&type=style&index=0&scoped=7ffdfd9e&lang.scss": [],
+  "src/components/SideBar.vue?vue&type=style&index=0&scoped=41054f02&lang.scss": [],
   "src/components/SideBar.vue": [],
   "src/dark/dark.ts": [],
   "src/components/HeadNav.vue": [],
@@ -113,6 +119,7 @@
   "src/layouts/default.vue": [],
   "../../../../@vite-plugin-vue-layouts/generated-layouts": [],
   "src/App.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/components/doc/switch/DocSwitch.vue?vue&type=script&setup=true&lang.ts": [],
   "src/components/doc/space/DocSpace.vue": [],
   "src/components/doc/tooltip/DocTooltip.vue": [],
   "src/components/doc/card/DocCard.vue": [],
@@ -120,185 +127,200 @@
   "../../../../@vite-plugin-pages/route-block": [],
   "src/pages/index.vue": [],
   "../../../../@vite-plugin-pages/generated-pages?id=~pages": [],
-  "node_modules/.pnpm/@unocss+reset@0.44.7/node_modules/@unocss/reset/tailwind.css": [],
+  "node_modules/.pnpm/@unocss+reset@0.45.1/node_modules/@unocss/reset/tailwind.css": [],
   "src/styles/main.css": [],
   "../../../../__uno.css": [],
   "src/main.ts": [],
   "index.html": [],
-  "assets/app.9dbe097a.js-unocss-hash.css": [],
+  "assets/app.042b46c8.js-unocss-hash.css": [],
   "src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/404.62656032.js"
+    "/assets/404.81eeb609.js"
   ],
   "src/layouts/404.vue": [
-    "/assets/404.62656032.js"
+    "/assets/404.81eeb609.js"
   ],
   "src/layouts/guide.vue": [
-    "/assets/guide.d7c07544.js"
+    "/assets/guide.17f27b83.js"
   ],
   "src/layouts/home.vue": [
-    "/assets/home.5e14ce9c.js"
+    "/assets/home.d78a2e2c.js"
   ],
   "src/pages/about.md": [
-    "/assets/about.d845b7e7.js"
-  ],
-  "src/pages/test.vue": [
-    "/assets/test.e2191ebf.js"
+    "/assets/about.aa4c9668.js"
   ],
   "src/pages/[...all].vue": [
-    "/assets/_...all_.0b5b0335.js"
+    "/assets/_...all_.affb26e9.js"
   ],
   "src/pages/components/backtop.md": [
-    "/assets/backtop.8eeb3c15.js"
+    "/assets/backtop.6f9b2a9e.js"
   ],
   "src/components/doc/button/ButtonApi.md": [
-    "/assets/button.ba5c2d33.js"
+    "/assets/button.4e12da58.js"
   ],
   "src/components/doc/button/ButtonRound.vue": [
-    "/assets/button.ba5c2d33.js"
+    "/assets/button.4e12da58.js"
   ],
   "src/components/doc/button/ButtonDisabled.vue": [
-    "/assets/button.ba5c2d33.js"
+    "/assets/button.4e12da58.js"
   ],
   "src/components/doc/button/DocButton.vue?raw": [
-    "/assets/button.ba5c2d33.js"
+    "/assets/button.4e12da58.js"
   ],
   "src/components/doc/button/ButtonDisabled.vue?raw": [
-    "/assets/button.ba5c2d33.js"
+    "/assets/button.4e12da58.js"
   ],
   "src/components/doc/button/ButtonRound.vue?raw": [
-    "/assets/button.ba5c2d33.js"
+    "/assets/button.4e12da58.js"
   ],
   "src/pages/components/button.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/button.ba5c2d33.js"
+    "/assets/button.4e12da58.js"
   ],
   "src/pages/components/button.vue": [
-    "/assets/button.ba5c2d33.js"
+    "/assets/button.4e12da58.js"
   ],
   "\u0000commonjsHelpers.js": [
-    "/assets/CodeBox.78eb4e74.js",
+    "/assets/CodeBox.e9991d1b.js",
     "/assets/CodeBox.28ab99fb.css"
   ],
   "\u0000C:/Users/admin/Documents/IU-UI/node_modules/.pnpm/prismjs@1.28.0/node_modules/prismjs/components/prism-core.js?commonjs-module": [
-    "/assets/CodeBox.78eb4e74.js",
+    "/assets/CodeBox.e9991d1b.js",
     "/assets/CodeBox.28ab99fb.css"
   ],
   "node_modules/.pnpm/prismjs@1.28.0/node_modules/prismjs/components/prism-core.js": [
-    "/assets/CodeBox.78eb4e74.js",
+    "/assets/CodeBox.e9991d1b.js",
     "/assets/CodeBox.28ab99fb.css"
   ],
   "node_modules/.pnpm/prismjs@1.28.0/node_modules/prismjs/components/prism-clike.js": [
-    "/assets/CodeBox.78eb4e74.js",
+    "/assets/CodeBox.e9991d1b.js",
     "/assets/CodeBox.28ab99fb.css"
   ],
   "node_modules/.pnpm/prismjs@1.28.0/node_modules/prismjs/components/prism-markup.js": [
-    "/assets/CodeBox.78eb4e74.js",
+    "/assets/CodeBox.e9991d1b.js",
     "/assets/CodeBox.28ab99fb.css"
   ],
   "node_modules/.pnpm/prismjs@1.28.0/node_modules/prismjs/components/prism-javascript.js": [
-    "/assets/CodeBox.78eb4e74.js",
+    "/assets/CodeBox.e9991d1b.js",
     "/assets/CodeBox.28ab99fb.css"
   ],
   "node_modules/.pnpm/prismjs@1.28.0/node_modules/prismjs/components/prism-css.js": [
-    "/assets/CodeBox.78eb4e74.js",
+    "/assets/CodeBox.e9991d1b.js",
     "/assets/CodeBox.28ab99fb.css"
   ],
   "src/components/CodeBox.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/CodeBox.78eb4e74.js",
+    "/assets/CodeBox.e9991d1b.js",
     "/assets/CodeBox.28ab99fb.css"
   ],
   "src/components/CodeBox.vue?vue&type=style&index=0&scoped=6b5b792c&lang.scss": [
-    "/assets/CodeBox.78eb4e74.js",
+    "/assets/CodeBox.e9991d1b.js",
     "/assets/CodeBox.28ab99fb.css"
   ],
   "src/components/CodeBox.vue": [
-    "/assets/CodeBox.78eb4e74.js",
+    "/assets/CodeBox.e9991d1b.js",
     "/assets/CodeBox.28ab99fb.css"
   ],
   "src/components/doc/card/DocCard.vue?raw": [
-    "/assets/card.b0eeebdb.js"
+    "/assets/card.d305cf49.js"
   ],
   "src/components/doc/card/CardSlot.vue?raw": [
-    "/assets/card.b0eeebdb.js"
+    "/assets/card.d305cf49.js"
   ],
   "src/components/doc/card/CardHoverable.vue?raw": [
-    "/assets/card.b0eeebdb.js"
+    "/assets/card.d305cf49.js"
   ],
   "src/components/doc/card/CardBordered.vue?raw": [
-    "/assets/card.b0eeebdb.js"
+    "/assets/card.d305cf49.js"
   ],
   "src/components/doc/card/CardApi.md": [
-    "/assets/card.b0eeebdb.js"
+    "/assets/card.d305cf49.js"
   ],
   "src/components/doc/card/CardBordered.vue": [
-    "/assets/card.b0eeebdb.js"
+    "/assets/card.d305cf49.js"
   ],
   "src/components/doc/card/CardSlot.vue": [
-    "/assets/card.b0eeebdb.js"
+    "/assets/card.d305cf49.js"
   ],
   "src/components/doc/card/CardHoverable.vue": [
-    "/assets/card.b0eeebdb.js"
+    "/assets/card.d305cf49.js"
   ],
   "src/pages/components/card.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/card.b0eeebdb.js"
+    "/assets/card.d305cf49.js"
   ],
   "src/pages/components/card.vue": [
-    "/assets/card.b0eeebdb.js"
+    "/assets/card.d305cf49.js"
   ],
   "src/pages/components/popover.vue": [
-    "/assets/popover.f633605a.js"
+    "/assets/popover.e9ada33d.js"
   ],
   "src/components/doc/space/DocSpace.vue?raw": [
-    "/assets/space.35e759b0.js"
+    "/assets/space.786ef2a7.js"
   ],
   "src/components/doc/space/SpaceVertical.vue?raw": [
-    "/assets/space.35e759b0.js"
+    "/assets/space.786ef2a7.js"
   ],
   "src/components/doc/space/SpaceVerticalCenter.vue?raw": [
-    "/assets/space.35e759b0.js"
+    "/assets/space.786ef2a7.js"
   ],
   "src/components/doc/space/SpaceAround.vue?raw": [
-    "/assets/space.35e759b0.js"
+    "/assets/space.786ef2a7.js"
   ],
   "src/components/doc/space/SpaceEnd.vue?raw": [
-    "/assets/space.35e759b0.js"
+    "/assets/space.786ef2a7.js"
   ],
   "src/components/doc/space/SpaceCenter.vue?raw": [
-    "/assets/space.35e759b0.js"
+    "/assets/space.786ef2a7.js"
   ],
   "src/components/doc/space/SpaceApi.md": [
-    "/assets/space.35e759b0.js"
+    "/assets/space.786ef2a7.js"
   ],
   "src/components/doc/space/SpaceVerticalCenter.vue": [
-    "/assets/space.35e759b0.js"
+    "/assets/space.786ef2a7.js"
   ],
   "src/components/doc/space/SpaceVertical.vue": [
-    "/assets/space.35e759b0.js"
+    "/assets/space.786ef2a7.js"
   ],
   "src/components/doc/space/SpaceEnd.vue": [
-    "/assets/space.35e759b0.js"
+    "/assets/space.786ef2a7.js"
   ],
   "src/components/doc/space/SpaceAround.vue": [
-    "/assets/space.35e759b0.js"
+    "/assets/space.786ef2a7.js"
   ],
   "src/components/doc/space/SpaceCenter.vue": [
-    "/assets/space.35e759b0.js"
+    "/assets/space.786ef2a7.js"
   ],
   "src/pages/components/space.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/space.35e759b0.js"
+    "/assets/space.786ef2a7.js"
   ],
   "src/pages/components/space.vue": [
-    "/assets/space.35e759b0.js"
+    "/assets/space.786ef2a7.js"
+  ],
+  "src/components/doc/switch/DocSwitch.vue?raw": [
+    "/assets/switch.479e8e60.js"
+  ],
+  "src/components/doc/switch/SwitchRound.vue?raw": [
+    "/assets/switch.479e8e60.js"
+  ],
+  "src/components/doc/switch/SwitchApi.md": [
+    "/assets/switch.479e8e60.js"
+  ],
+  "src/components/doc/switch/SwitchRound.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/switch.479e8e60.js"
+  ],
+  "src/pages/components/switch.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/switch.479e8e60.js"
+  ],
+  "src/pages/components/switch.vue": [
+    "/assets/switch.479e8e60.js"
   ],
   "src/components/doc/tooltip/DocTooltip.vue?raw": [
-    "/assets/tooltip.f87f5abb.js"
+    "/assets/tooltip.4b42f240.js"
   ],
   "src/pages/components/tooltip.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/tooltip.f87f5abb.js"
+    "/assets/tooltip.4b42f240.js"
   ],
   "src/pages/components/tooltip.vue": [
-    "/assets/tooltip.f87f5abb.js"
+    "/assets/tooltip.4b42f240.js"
   ],
   "src/pages/guide/start.md": [
-    "/assets/start.c9515f94.js"
+    "/assets/start.03988c7d.js"
   ]
 }
