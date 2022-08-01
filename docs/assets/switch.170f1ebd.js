@@ -1,4 +1,4 @@
-import{i as h,o as r,c as p,k as f,d as _,q as S,l as w,w as c,a as e,E as x,n as i,r as b,e as s,b as I,F as g}from"./app.042b46c8.js";import{_ as B}from"./CodeBox.e9991d1b.js";const C=`<script setup lang="ts">\r
+import{i as h,o as r,c as p,k as f,d as _,q as S,l as w,w as c,a as e,E as x,n as i,r as b,e as s,b as I,F as g}from"./index.65353c54.js";import{_ as B}from"./CodeBox.5f90343a.js";const C=`<script setup lang="ts">\r
 const value = ref<boolean>(true)\r
 <\/script>\r
 \r
