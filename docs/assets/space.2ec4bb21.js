@@ -1,0 +1,97 @@
+import{i as C,o as _,c as m,k as v,_ as l,l as p,w as n,a as t,m as o,I as i,n as s,d as b,r as w,e as a,b as y,G as V}from"./index.8c8d276c.js";import{_ as j}from"./CodeBox.899f6e9e.js";const A=`<template>\r
+  <IuSpace>\r
+    <IuButton>\r
+      \u95F4\u8DDD\r
+    </IuButton>\r
+    <IuButton>\r
+      \u95F4\u8DDD\r
+    </IuButton>\r
+    <IuButton>\r
+      \u95F4\u8DDD\r
+    </IuButton>\r
+    <IuButton>\r
+      \u95F4\u8DDD\r
+    </IuButton>\r
+  </IuSpace>\r
+</template>\r
+`,E=`<template>\r
+  <IuSpace vertical>\r
+    <IuButton>\r
+      \u95F4\u8DDD\r
+    </IuButton>\r
+    <IuButton>\r
+      \u95F4\u8DDD\r
+    </IuButton>\r
+    <IuButton>\r
+      \u95F4\u8DDD\r
+    </IuButton>\r
+    <IuButton>\r
+      \u95F4\u8DDD\r
+    </IuButton>\r
+  </IuSpace>\r
+</template>\r
+`,k=`<template>\r
+  <IuSpace vertical align="center">\r
+    <IuButton>\r
+      \u95F4\u8DDD\r
+    </IuButton>\r
+    <IuButton>\r
+      \u95F4\u8DDD\r
+    </IuButton>\r
+    <IuButton>\r
+      \u95F4\u8DDD\r
+    </IuButton>\r
+    <IuButton>\r
+      \u95F4\u8DDD\r
+    </IuButton>\r
+  </IuSpace>\r
+</template>\r
+`,D=`<template>\r
+  <IuSpace justify="around">\r
+    <IuButton>\r
+      \u95F4\u8DDD\r
+    </IuButton>\r
+    <IuButton>\r
+      \u95F4\u8DDD\r
+    </IuButton>\r
+    <IuButton>\r
+      \u95F4\u8DDD\r
+    </IuButton>\r
+    <IuButton>\r
+      \u95F4\u8DDD\r
+    </IuButton>\r
+  </IuSpace>\r
+</template>\r
+`,N=`<template>\r
+  <IuSpace justify="end">\r
+    <IuButton>\r
+      \u95F4\u8DDD\r
+    </IuButton>\r
+    <IuButton>\r
+      \u95F4\u8DDD\r
+    </IuButton>\r
+    <IuButton>\r
+      \u95F4\u8DDD\r
+    </IuButton>\r
+    <IuButton>\r
+      \u95F4\u8DDD\r
+    </IuButton>\r
+  </IuSpace>\r
+</template>\r
+`,F=`<template>\r
+  <IuSpace justify="center">\r
+    <IuButton>\r
+      \u95F4\u8DDD\r
+    </IuButton>\r
+    <IuButton>\r
+      \u95F4\u8DDD\r
+    </IuButton>\r
+    <IuButton>\r
+      \u95F4\u8DDD\r
+    </IuButton>\r
+    <IuButton>\r
+      \u95F4\u8DDD\r
+    </IuButton>\r
+  </IuSpace>\r
+</template>\r
+`,P={class:"prose prose-sm text-left"},G=v("<h2>API</h2><h3>Space Props</h3><table><thead><tr><th>\u540D\u79F0</th><th>\u7C7B\u578B</th><th>\u9ED8\u8BA4\u503C</th><th>\u8BF4\u660E</th></tr></thead><tbody><tr><td>vertical</td><td><code>boolean</code></td><td><code>false</code></td><td>\u662F\u5426\u5782\u76F4\u5E03\u5C40</td></tr><tr><td>align</td><td><code>start | end | center | baseline | stretch</code></td><td><code>undefined</code></td><td>\u5782\u76F4\u6392\u5217\u65B9\u5F0F</td></tr><tr><td>justify</td><td><code>start | end | center | around | between | evenly</code></td><td><code>start</code></td><td>\u6C34\u5E73\u6392\u5217\u65B9\u5F0F</td></tr><tr><td>gap</td><td><code>string</code></td><td><code>undefined</code></td><td>\u6C34\u5E73\u548C\u5782\u76F4\u95F4\u8DDD</td></tr><tr><td>gapX</td><td><code>string</code></td><td><code>undefined</code></td><td>\u6C34\u5E73\u95F4\u8DDD</td></tr><tr><td>gapY</td><td><code>string</code></td><td><code>undefined</code></td><td>\u5782\u76F4\u95F4\u8DDD</td></tr></tbody></table>",3),H=[G],T={__name:"SpaceApi",setup(d,{expose:c}){return c({frontmatter:{meta:[]}}),C({meta:[]}),(I,r)=>(_(),m("div",P,H))}},X={},Y=o(" \u95F4\u8DDD "),q=o(" \u95F4\u8DDD "),z=o(" \u95F4\u8DDD "),J=o(" \u95F4\u8DDD ");function K(d,c){const e=i,u=s;return _(),p(u,{vertical:"",align:"center"},{default:n(()=>[t(e,null,{default:n(()=>[Y]),_:1}),t(e,null,{default:n(()=>[q]),_:1}),t(e,null,{default:n(()=>[z]),_:1}),t(e,null,{default:n(()=>[J]),_:1})]),_:1})}const L=l(X,[["render",K]]),M={},O=o(" \u95F4\u8DDD "),Q=o(" \u95F4\u8DDD "),R=o(" \u95F4\u8DDD "),U=o(" \u95F4\u8DDD ");function W(d,c){const e=i,u=s;return _(),p(u,{vertical:""},{default:n(()=>[t(e,null,{default:n(()=>[O]),_:1}),t(e,null,{default:n(()=>[Q]),_:1}),t(e,null,{default:n(()=>[R]),_:1}),t(e,null,{default:n(()=>[U]),_:1})]),_:1})}const Z=l(M,[["render",W]]),tt={},nt=o(" \u95F4\u8DDD "),et=o(" \u95F4\u8DDD "),ot=o(" \u95F4\u8DDD "),ut=o(" \u95F4\u8DDD ");function ct(d,c){const e=i,u=s;return _(),p(u,{justify:"end"},{default:n(()=>[t(e,null,{default:n(()=>[nt]),_:1}),t(e,null,{default:n(()=>[et]),_:1}),t(e,null,{default:n(()=>[ot]),_:1}),t(e,null,{default:n(()=>[ut]),_:1})]),_:1})}const rt=l(tt,[["render",ct]]),_t={},dt=o(" \u95F4\u8DDD "),at=o(" \u95F4\u8DDD "),st=o(" \u95F4\u8DDD "),lt=o(" \u95F4\u8DDD ");function pt(d,c){const e=i,u=s;return _(),p(u,{justify:"around"},{default:n(()=>[t(e,null,{default:n(()=>[dt]),_:1}),t(e,null,{default:n(()=>[at]),_:1}),t(e,null,{default:n(()=>[st]),_:1}),t(e,null,{default:n(()=>[lt]),_:1})]),_:1})}const it=l(_t,[["render",pt]]),ft={},It=o(" \u95F4\u8DDD "),mt=o(" \u95F4\u8DDD "),Bt=o(" \u95F4\u8DDD "),ht=o(" \u95F4\u8DDD ");function St(d,c){const e=i,u=s;return _(),p(u,{justify:"center"},{default:n(()=>[t(e,null,{default:n(()=>[It]),_:1}),t(e,null,{default:n(()=>[mt]),_:1}),t(e,null,{default:n(()=>[Bt]),_:1}),t(e,null,{default:n(()=>[ht]),_:1})]),_:1})}const $t=l(ft,[["render",St]]),xt={class:"flex flex-col mt-30px"},gt=y("div",{"mb-30px":"","text-30px":"","font-bold":""}," Space ",-1),bt=b({__name:"space",setup(d){return(c,e)=>{const u=V,I=w("Starport"),r=j,B=$t,h=it,S=rt,f=s,$=Z,x=L,g=T;return _(),m("div",xt,[gt,t(f,null,{default:n(()=>[t(f,{vertical:""},{default:n(()=>[t(r,{"w-500px":"",title:"\u57FA\u7840",code:a(A)},{default:n(()=>[t(I,{port:"iu-space","w-300px":"","h-34px":""},{default:n(()=>[t(u)]),_:1})]),_:1},8,["code"]),t(r,{"w-500px":"",title:"\u5C45\u4E2D",code:a(F)},{default:n(()=>[t(B)]),_:1},8,["code"]),t(r,{"w-500px":"",title:"around",code:a(D)},{default:n(()=>[t(h)]),_:1},8,["code"]),t(r,{"w-500px":"",title:"end",code:a(N)},{default:n(()=>[t(S)]),_:1},8,["code"])]),_:1}),t(f,{vertical:""},{default:n(()=>[t(r,{"w-500px":"",title:"\u5782\u76F4",code:a(E)},{default:n(()=>[t($)]),_:1},8,["code"]),t(r,{"w-500px":"",title:"\u5782\u76F4\u5C45\u4E2D",code:a(k)},{default:n(()=>[t(x)]),_:1},8,["code"])]),_:1})]),_:1}),t(g)])}}});export{bt as default};
