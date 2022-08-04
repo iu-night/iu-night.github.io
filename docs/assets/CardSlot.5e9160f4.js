@@ -1,1 +1,0 @@
-import{_ as a,o as c,C as s,w as t,z as o,B as _}from"./index.5a53686a.js";const n={},r=o(" #header "),d=o(" default "),f=o(" #footer "),i=o(" #action ");function h(l,u){const e=_;return c(),s(e,null,{header:t(()=>[r]),footer:t(()=>[f]),action:t(()=>[i]),default:t(()=>[d]),_:1})}const x=a(n,[["render",h]]);export{x as default};

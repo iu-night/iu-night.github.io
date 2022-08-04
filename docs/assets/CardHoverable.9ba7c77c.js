@@ -1,1 +1,0 @@
-import{_ as a,o,C as t,w as r,b as c,B as s}from"./index.5a53686a.js";const n={},_=c("div",null,"\u53EF\u60AC\u6D6E\u5361\u7247",-1);function d(l,f){const e=s;return o(),t(e,{hoverable:""},{default:r(()=>[_]),_:1})}const i=a(n,[["render",d]]);export{i as default};
