@@ -1,11 +1,13 @@
 const e=`<script setup lang="ts">\r
-const value = ref<boolean>(true)\r
+const value = ref(true)\r
 <\/script>\r
 \r
 <template>\r
   <IuSpace align="center">\r
-    <IuSwitch v-model="value" />\r
-    <IuSwitch v-model="value" disabled />\r
+    <IuCheckbox v-model="value" />\r
+    <IuCheckbox v-model="value">\r
+      checkbox\r
+    </IuCheckbox>\r
   </IuSpace>\r
 </template>\r
 `;export{e as default};
