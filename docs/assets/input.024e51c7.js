@@ -1,0 +1,1 @@
+import{d as e,i as o,o as s,c as n,b as t}from"./index.460878a8.js";const c={class:"flex flex-col mt-30px"},_=t("div",{"mb-30px":"","text-30px":"","font-bold":""}," Input ",-1),a=t("div",{"text-20px":"","font-bold":""}," coming soon... ",-1),d=[_,a],x=e({__name:"input",setup(i){return o("111"),(p,r)=>(s(),n("div",c,d))}});export{x as default};
