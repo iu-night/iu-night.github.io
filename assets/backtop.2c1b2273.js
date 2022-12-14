@@ -1,1 +1,0 @@
-import{y as o,o as s,c as a,a as t}from"./index.4ad5aa1a.js";const c={class:"prose prose-sm text-left"},n=t("h2",null,"Backtop",-1),_=t("h3",null,"\u6EDA\u52A8\u8BD5\u8BD5",-1),r=t("div",{"h-2000px":""},null,-1),d=[n,_,r],f=[],k={__name:"backtop",setup(l,{expose:e}){return e({frontmatter:{meta:[]}}),o({meta:[]}),(p,i)=>(s(),a("div",c,d))}};export{k as default,f as meta};
