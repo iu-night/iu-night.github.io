@@ -1,0 +1,1 @@
+import{y as s,o,c as a,z as t,a as c}from"./index-0b4ebc15.js";const n={class:"prose prose-sm text-left"},r=c("h2",null,"开始…",-1),_=[r],u=[],m={__name:"start",setup(d,{expose:e}){return e({frontmatter:{meta:[]}}),s({meta:[]}),(p,i)=>(o(),a("div",n,_))}};typeof t=="function"&&t(m);export{m as default,u as meta};
